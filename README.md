@@ -1,2 +1,2 @@
-# table-caster
-Parameterized mount to put casters under a square-legged table
+# Table Caster
+Parameterized mount to put casters under a square-legged table.
